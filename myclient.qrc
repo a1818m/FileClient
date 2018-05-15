@@ -1,0 +1,15 @@
+<RCC>
+  <qresource prefix="MyClient">
+    <file>Resources/帮助.png</file>
+    <file>Resources/登录.png</file>
+    <file>Resources/登录密码.png</file>
+    <file>Resources/断开链接.png</file>
+    <file>Resources/连接.png</file>
+    <file>Resources/上传.png</file>
+    <file>Resources/文件.png</file>
+    <file>Resources/下载 (1).png</file>
+    <file>Resources/显示.png</file>
+    <file>Resources/选择文件 (1).png</file>
+    <file>Resources/注册.png</file>
+  </qresource>
+</RCC>
