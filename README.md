@@ -25,8 +25,8 @@
 
 * afos: tool class.
 * jsoncpp:json data format structure parsing.
-* Resources: icon Resources
+* Resources: icon resources
 * picture: demo screenshot.
-* SRC: source code.
-     * myclient.cpp: main interface section.
-     * userregister.cpp: registration interface section.
+* src: source code
+     * myclient.cpp: main interface section
+     * userregister.cpp: registration interface section
